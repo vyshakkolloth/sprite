@@ -1,0 +1,93 @@
+@import url("https://fast.fonts.net/cssapi/8a04dc22-85c7-4eaf-9d7a-6b23de89105b.css");
+.main1
+{
+    margin-top: 90px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #2aaf45;
+}
+.main_sub1
+{
+    
+    margin-top: 75px;
+}
+.main_sub1 h1
+{
+    font-size: 39.984px;
+    color: white;
+    
+}
+
+.main_sub1 h1,button
+{
+    margin-left: 169px;
+
+}
+.main_sub2
+{
+    
+}
+.main_img
+{
+    width: 735px;
+    height: 399px;
+ display:inline-block;
+}
+
+
+.main2
+{
+    margin-top: 44px;
+    
+    margin-left: 331px;
+
+}
+
+.main2 h4
+{
+    font-size: 23.984px;
+    font-style: italic;
+    font-family: FuturaBT W05 ExtraBlack Italic;
+}
+.main2 h2
+{
+    font-size: 14px;
+    text-align: left;
+    width: 699px;
+    font-family: AvenirNextLTW01-Medium;
+    
+
+}
+.learn_more
+{
+    margin-top: 25px;
+    padding: 10px 30px;
+    color: #2aaf45;
+    font-size: 16px;
+    font-family:  FuturaBT W05 ExtraBlack Italic;
+
+}
+
+    
+.vid_dev
+{
+    margin-top: 55px;
+  
+    margin-left: 331px;
+}
+.comment_button
+{
+background-color: aqua;
+
+height: 100px;
+width: 100px;
+}
+
+.photo_sec
+{
+    margin-left: 338px;
+    margin-top: 16px;
+
+}
+
+

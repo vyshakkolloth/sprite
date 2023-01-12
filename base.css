@@ -1,0 +1,81 @@
+.base_container
+{
+    
+    background-color: #009b4e;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.base
+{
+    display:inline-block;
+padding-top: 55px;
+padding-left: 207px;
+}
+
+.base2
+{
+    display:inline-block;
+   
+}
+.base_list
+{
+    padding-left: 20px;
+    color: white;
+    font-family: FuturaBT W05 ExtraBlack Italic;
+}
+.base_text
+{
+    color: white;
+    font-family: FuturaBT W05 ExtraBlack Italic;
+    padding-top: 55px
+}
+.base_social
+{
+    padding-top:43px;
+    padding-left:20px;
+}
+.base_social img
+{
+    padding-left:13px ;
+}
+
+.footer
+{
+    background-color: #009b4e;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+
+    padding-top: 100PX;
+    color: white;
+    font-family: FuturaBT W05 ExtraBlack Italic;
+      
+}
+.footer_base
+{
+    font-family: AvenirNextLTW01-Medium;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    color: white;
+    font-size: 14px;
+    
+}
+.footer_product
+{
+    margin-top: 87px;
+    font-family: FuturaBT W05 ExtraBlack Italic;
+    width: 281px;
+    line-height: 40px;
+    color: white;
+}
+.base_list p
+{
+    font-family: FuturaBT W05 ExtraBlack Italic; 
+}
+.footer_product p
+{
+    font-family: FuturaBT W05 ExtraBlack Italic;
+}
